@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeaBattle_A", "SeaBattle_A\SeaBattle_A.csproj", "{AB3E9D2C-ACC3-496E-A717-5515C372DD37}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateValidation_B", "DateValidation_B\DateValidation_B.csproj", "{ACA42ED8-A37D-4C19-A801-1AC6FF892AB9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{AB3E9D2C-ACC3-496E-A717-5515C372DD37}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB3E9D2C-ACC3-496E-A717-5515C372DD37}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB3E9D2C-ACC3-496E-A717-5515C372DD37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACA42ED8-A37D-4C19-A801-1AC6FF892AB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACA42ED8-A37D-4C19-A801-1AC6FF892AB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACA42ED8-A37D-4C19-A801-1AC6FF892AB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACA42ED8-A37D-4C19-A801-1AC6FF892AB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
