@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarNumbers_C", "CarNumbers_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BattleForAir_D", "BattleForAir_D\BattleForAir_D.csproj", "{FD86E90B-4E2F-4F2E-B48D-BE6922409BA1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataCompression_E", "DataCompression_E\DataCompression_E.csproj", "{E3258317-E3F4-4B75-B226-5D4E691BEC0A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{FD86E90B-4E2F-4F2E-B48D-BE6922409BA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD86E90B-4E2F-4F2E-B48D-BE6922409BA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD86E90B-4E2F-4F2E-B48D-BE6922409BA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3258317-E3F4-4B75-B226-5D4E691BEC0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3258317-E3F4-4B75-B226-5D4E691BEC0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3258317-E3F4-4B75-B226-5D4E691BEC0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3258317-E3F4-4B75-B226-5D4E691BEC0A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
